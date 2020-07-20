@@ -11,7 +11,7 @@ djangorestframework-simplejwt==3.3
 django-sslserver==0.20
 msgpack==0.5.6
 thinc==6.12.1
-ecdsa==0.13
+ecdsa==0.13.3
 future==0.17.1
 idna==2.8
 kombu==4.2.1
