@@ -28,7 +28,7 @@ requests==2.21.0
 rsa==4.0
 shellescape==3.4.1
 six==1.12.0
-urllib3==1.24.1
+urllib3==1.26.5
 vine==1.1.4
 uuid==1.30
 gunicorn==19.9.0
